@@ -82,7 +82,7 @@ PNEUMONIADETECTION
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/<your-username>/PneumoniaDetection.git
+git clone https://github.com/aryanzutshi2004/PneumoniaDetection.git
 cd PneumoniaDetection
 ```
 
