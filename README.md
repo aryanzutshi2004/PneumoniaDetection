@@ -1,7 +1,14 @@
 # PneumoniaDetection# 🩺 Pneumonia Detection using Deep Learning
 
+# 🩺 PneumoniaDetection — Pneumonia Detection using Deep Learning
+
 A deep learning–based **Pneumonia Detection System** built with **PyTorch**, featuring a **Streamlit frontend** and **FastAPI backend** for seamless web deployment.  
-This project leverages **Optuna for hyperparameter optimization** and uses a **WeightedRandomSampler** to tackle dataset imbalance, improving the model’s recall and precision for pneumonia cases.
+
+This project automatically analyzes **chest X-ray images** and classifies them as **Normal** or **Pneumonia**.  
+It aims to assist doctors and medical practitioners by providing a **quick, AI-assisted diagnostic tool** that can identify potential pneumonia cases within seconds — reducing human error and enabling faster medical decisions.
+
+This end-to-end setup showcases how deep learning can be deployed effectively for **medical imaging applications**.
+
 
 ---
 
