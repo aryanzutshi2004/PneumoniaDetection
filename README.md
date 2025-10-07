@@ -10,25 +10,35 @@ This project leverages **Optuna for hyperparameter optimization** and uses a **W
 PNEUMONIADETECTION
 
 ├── artifacts/
+
 │ ├── best_model.pth # Best performing trained model
+
 │ ├── model_2.pth # Alternative model checkpoint
 
 
 ├── fast-api backend/
 │ ├── model_helper.py # Model loading and prediction helper
+
 │ ├── server.py # FastAPI backend for inference
+
 │ ├── requirements.txt # Backend dependencies
 
 
 ├── streamlit frontend/
+
 │ ├── app.py # Streamlit user interface
+
 │ ├── requirements.txt # Frontend dependencies
 
 
 ├── .gitattributes
+
 ├── .gitignore
+
 ├── LICENSE
+
 └── README.md
+
 
 
 ---
