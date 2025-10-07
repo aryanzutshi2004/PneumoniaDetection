@@ -86,12 +86,13 @@ git clone https://github.com/<your-username>/PneumoniaDetection.git
 cd PneumoniaDetection
 ```
 
+### 2️⃣ Create Virtual Environments
 ```bash
 cd "fast-api backend"
 pip install -r requirements.txt
 uvicorn server:app --reload
 ```
-
+### 3️⃣ Access the App
 ```bash
 cd "../streamlit frontend"
 pip install -r requirements.txt
